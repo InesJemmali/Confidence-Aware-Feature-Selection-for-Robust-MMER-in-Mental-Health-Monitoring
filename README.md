@@ -192,7 +192,7 @@ To guarantee robust performance across all emotion categories, the model's effec
 #### Confusion Matrix
 
 <p align="center">
-  <img src="figures/confusion matrix.png" width="600" alt="Confusion Matrix IEMOCAP" />
+  <img src="figures/confusion_matrix.png" width="600" alt="Confusion Matrix IEMOCAP" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
