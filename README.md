@@ -378,6 +378,7 @@ to the authors. See `LICENSE.md` for the full license text.
 ## Contact
 
 Ines Jemmali - [@LinkedIn](www.linkedin.com/in/ines-jemmali-8b1a92223) - ines.jemmali@mail.concordia.ca
+Alaa Nfissi  - [@LinkedIn](https://www.linkedin.com/in/alaa-nfissi) -  alaa.nfissi@mail.concordia.ca
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
