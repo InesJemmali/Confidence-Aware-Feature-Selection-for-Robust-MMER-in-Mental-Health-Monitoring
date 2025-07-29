@@ -279,6 +279,7 @@ mmer/
 ├── figures/                  # Visualization assets
 │   ├── confusion_matrix.png
 │   ├── logo.png
+│   ├── confedencesmodule.png
 │   └── model_archi1.png
 ├── CAFES/                      # Source code directory
 │   ├── models/
