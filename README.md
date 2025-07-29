@@ -275,7 +275,7 @@ To guarantee robust performance across all emotion categories, the model's effec
 ## Project Structure
 
 ```
-mmer/
+/
 ├── figures/                  # Visualization assets
 │   ├── confusion_matrix.png
 │   ├── logo.png
