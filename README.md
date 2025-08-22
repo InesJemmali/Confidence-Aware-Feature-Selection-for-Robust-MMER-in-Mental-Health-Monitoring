@@ -145,7 +145,7 @@ This work presents a confidence-aware framework for multimodal emotion recogniti
 The model is evaluated on two benchmark datasets: **IEMOCAP** and **CMU-MOSEI**, both widely used for multimodal emotion recognition.
 
 
-Processed data for dataset can be downloaded from:
+A processed data for dataset can be downloaded from:
 [Download Processed Data](https://hkustconnect-my.sharepoint.com/personal/wdaiai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwdaiai_connect_ust_hk%2FDocuments%2FMME2E%2Fdata%2Ezip&parent=%2Fpersonal%2Fwdaiai_connect_ust_hk%2FDocuments%2FMME2E&ga=1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
